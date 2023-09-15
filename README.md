@@ -37,5 +37,5 @@ H&M müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama strateji
 |---|---|
 |   **master_id**  | Eşsiz müşteri numarası |
 |   **last_order_date**  | Müşterinin yaptığı son alışveriş tarihi |
-|   **order_num_total**  | Müşterinin online platformda yaptığı toplam alışveriş sayısı |
-|   **customer_value_total**  | Müşterinin offline alışverişlerinde ödediği toplam ücret  |
+|   **order_num_total**  | Müşterinin yaptığı toplam alışveriş sayısı |
+|   **customer_value_total**  | Müşterinin alışverişlerinde ödediği toplam ücret  |
